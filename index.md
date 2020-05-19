@@ -1,3 +1,5 @@
+[Home](/) | [Projects](/projects) | [Contact](/contact)
+
 ### Coding since I was knee high to a grasshopper. 
 
 I have been coding since I was a kid.  From the moment I realized I could type magic words into a box and make it obey my every command, I have been entranced.  I started at just eight years old with Apple Basic and quickly moved on to whatever language I had available.  I self-taught Borland C++ when I was twelve, and like any twelve-year-old with an obsession it consumed my every waking moment, not always to my benefit.  I started building PCs, networks, and websites in high school for extra money on the side while fixing and selling computers for a local office supply chain.  All this to say, I have always been obsessed with computers.  They make sense to me.  
