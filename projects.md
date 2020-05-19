@@ -7,11 +7,11 @@ I am currently entertaining remote clients and positions.  If you would like to 
 
 ## Past Projects
 
-#### Urban Air Adventure Parks
+#### [Urban Air Adventure Parks](/urbanair)
 Lead a globally diverse team of skilled contractors on a greenfield cloud-native e-commerce platform.
 
-#### EZLynx
+#### [EZLynx](/ezlynx)
 Lead the cloud migration strategies and implementation for a large SaaS product.
 
-#### Six Flags Entertainment
+#### [Six Flags Entertainment](/sixflags)
 Lead the design and integrations for ticketing and accesses control systems.
